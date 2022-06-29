@@ -1,0 +1,26 @@
+{
+  "name": "codemi-backend-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "kerlo": "node ./index.js"
+  },
+  "scripts": {
+    "test": "mocha --recursive --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polluxdev/codemi-backend-assessment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polluxdev/codemi-backend-assessment/issues"
+  },
+  "homepage": "https://github.com/polluxdev/codemi-backend-assessment#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
